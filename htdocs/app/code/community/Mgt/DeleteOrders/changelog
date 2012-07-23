@@ -1,0 +1,14 @@
+1.0.5 Stefan Wieczorek <stefan.wieczorek@mgt-commerce.com>
+Change namespace to Mgt
+
+1.0.4 Stefan Wieczorek <stefan.wieczorek@mgt-commerce.com>
+Fixed delete orders also if foreign keys on database table are not working
+
+1.0.3 Stefan Wieczorek <stefan.wieczorek@mgt-commerce.com>
+Fixed Typo
+
+1.0.2 Stefan Wieczorek <stefan.wieczorek@mgt-commerce.com>
+Fixed Typo
+
+1.0.1 Stefan Wieczorek <stefan.wieczorek@mgt-commerce.com>
+Fixed Typo
