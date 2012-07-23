@@ -11,6 +11,11 @@
                 <class>Mgt_DeleteOrders_Model</class>
             </mgt_delete_orders>
         </models>
+         <helpers>
+            <mgt_delete_orders>
+                <class>Mgt_DelteOrders_Helper</class>
+            </mgt_delete_orders>
+        </helpers>
     </global>
     <admin>
         <routers>
