@@ -1,0 +1,20 @@
+{
+    "name": "mgt/deleteorders",
+    "type": "magento-module",
+    "description": "Easy to delete order in backend seamlessly through the Action dropdown box on the native Order Manager.",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "extra":{
+        "map":[
+          ["htdocs/app/code/community/Mgt/DeleteOrders", "app/code/community/Mgt/DeleteOrders"],
+          ["htdocs/app/etc/modules/Mgt_DeleteOrders.xml", "app/etc/modules/Mgt_DeleteOrders.xml"]
+        ]
+    },
+    "authors":[
+        {
+            "name":"mgt-commerce",
+            "email":"support@mgt-commerce.com"
+        }
+    ]
+}
