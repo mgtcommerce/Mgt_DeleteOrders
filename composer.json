@@ -1,0 +1,21 @@
+{
+    "name": "mgt/deleteorders",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "description": "Easy to delete order in backend seamlessly through the Action dropdown box on the native Order Manager.",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "extra":{
+        "map":[
+          ["src/app/code/community/Mgt/DeleteOrders", "app/code/community/Mgt/DeleteOrders"],
+          ["src/app/etc/modules/Mgt_DeleteOrders.xml", "app/etc/modules/Mgt_DeleteOrders.xml"]
+        ]
+    },
+    "authors":[
+        {
+            "name":"franklin",
+            "email":"franklin@weareinteractive.com"
+        }
+    ]
+}
