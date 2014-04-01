@@ -1,6 +1,5 @@
 {
     "name": "mgt/deleteorders",
-    "license": "OSL-3.0",
     "type": "magento-module",
     "description": "Easy to delete order in backend seamlessly through the Action dropdown box on the native Order Manager.",
     "require": {
@@ -14,8 +13,8 @@
     },
     "authors":[
         {
-            "name":"franklin",
-            "email":"franklin@weareinteractive.com"
+            "name":"mgt-commerce",
+            "email":"support@mgt-commerce.com"
         }
     ]
 }
