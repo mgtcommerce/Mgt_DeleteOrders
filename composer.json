@@ -8,8 +8,8 @@
     },
     "extra":{
         "map":[
-          ["src/app/code/community/Mgt/DeleteOrders", "app/code/community/Mgt/DeleteOrders"],
-          ["src/app/etc/modules/Mgt_DeleteOrders.xml", "app/etc/modules/Mgt_DeleteOrders.xml"]
+          ["htdocs/app/code/community/Mgt/DeleteOrders", "app/code/community/Mgt/DeleteOrders"],
+          ["htdocs/app/etc/modules/Mgt_DeleteOrders.xml", "app/etc/modules/Mgt_DeleteOrders.xml"]
         ]
     },
     "authors":[
