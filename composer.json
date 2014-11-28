@@ -5,12 +5,6 @@
     "require": {
         "magento-hackathon/magento-composer-installer": "*"
     },
-    "extra":{
-        "map":[
-          ["htdocs/app/code/community/Mgt/DeleteOrders", "app/code/community/Mgt/DeleteOrders"],
-          ["htdocs/app/etc/modules/Mgt_DeleteOrders.xml", "app/etc/modules/Mgt_DeleteOrders.xml"]
-        ]
-    },
     "authors":[
         {
             "name":"mgt-commerce",
