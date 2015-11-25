@@ -1,4 +1,4 @@
-htdocs/app/code/community/Mgt/DeleteOrders/controllers/IndexController.php app/code/community/Mgt/DeleteOrders/controllers/IndexController.php
+htdocs/app/code/community/Mgt/DeleteOrders/controllers/Adminhtml/Deleteorders/IndexController.php app/code/community/Mgt/DeleteOrders/controllers/Adminhtml/Deleteorders/IndexController.php
 htdocs/app/code/community/Mgt/DeleteOrders/etc/config.xml app/code/community/Mgt/DeleteOrders/etc/config.xml
 htdocs/app/code/community/Mgt/DeleteOrders/Helper/Data.php app/code/community/Mgt/DeleteOrders/Helper/Data.php
 htdocs/app/code/community/Mgt/DeleteOrders/Model/Observer.php app/code/community/Mgt/DeleteOrders/Model/Observer.php
