@@ -2,7 +2,7 @@
 <config>
    <modules>
       <Mgt_DeleteOrders>
-         <version>1.0.5</version>
+         <version>1.0.6</version>
       </Mgt_DeleteOrders>
    </modules>
   <global>
