@@ -31,7 +31,7 @@ class Mgt_DeleteOrders_Model_Observer
             if ($massBlock) {
                 $massBlock->addItem('mgt_delete_orders', array(
                     'label'=> Mage::helper('core')->__('Delete'),
-                    'url'  => Mage::getUrl('mgt_delete_orders', array('_secure'=>true)),
+                    'url'  => Mage::getUrl('adminhtml/deleteorders_index/index', array('_secure'=>true)),
                     'confirm' => Mage::helper('core')->__('Are you sure to delete the selected orders?'),
                 ));
             }
