@@ -22,7 +22,7 @@
             <adminhtml>
                 <args>
                     <modules>
-                        <Mgt_Base before="Mage_Adminhtml">Mgt_DeleteOrders_Adminhtml</Mgt_Base>
+                        <Mgt_DeleteOrders before="Mage_Adminhtml">Mgt_DeleteOrders_Adminhtml</Mgt_DeleteOrders>
                     </modules>
                 </args>
             </adminhtml>
