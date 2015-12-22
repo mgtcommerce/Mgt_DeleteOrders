@@ -13,7 +13,7 @@
         </models>
          <helpers>
             <mgt_delete_orders>
-                <class>Mgt_DelteOrders_Helper</class>
+                <class>Mgt_DeleteOrders_Helper</class>
             </mgt_delete_orders>
         </helpers>
     </global>
