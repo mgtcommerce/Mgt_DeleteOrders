@@ -2,7 +2,7 @@
 <config>
    <modules>
       <Mgt_DeleteOrders>
-         <version>1.0.5</version>
+         <version>1.0.6</version>
       </Mgt_DeleteOrders>
    </modules>
   <global>
@@ -13,19 +13,19 @@
         </models>
          <helpers>
             <mgt_delete_orders>
-                <class>Mgt_DelteOrders_Helper</class>
+                <class>Mgt_DeleteOrders_Helper</class>
             </mgt_delete_orders>
         </helpers>
     </global>
     <admin>
         <routers>
-            <mgt_delete_orders>
-                <use>admin</use>
+            <adminhtml>
                 <args>
-                    <module>Mgt_DeleteOrders</module>
-                    <frontName>mgt_delete_orders</frontName>
+                    <modules>
+                        <Mgt_DeleteOrders before="Mage_Adminhtml">Mgt_DeleteOrders_Adminhtml</Mgt_DeleteOrders>
+                    </modules>
                 </args>
-            </mgt_delete_orders>
+            </adminhtml>
         </routers>
     </admin>
     <adminhtml>

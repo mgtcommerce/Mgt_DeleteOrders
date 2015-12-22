@@ -21,7 +21,8 @@ Our free extension gives you this functionality.
 
 
 ## CHANGELOG
-
+1.0.6
+* Add compatibility support for SUPEE-6788
 
 1.0.5 
 * add installation and license file

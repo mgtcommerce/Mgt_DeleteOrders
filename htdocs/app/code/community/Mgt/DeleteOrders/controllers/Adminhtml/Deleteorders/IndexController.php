@@ -22,7 +22,7 @@
 
 require_once 'Mage/Adminhtml/controllers/Sales/OrderController.php';
 
-class Mgt_DeleteOrders_IndexController extends Mage_Adminhtml_Sales_OrderController
+class Mgt_DeleteOrders_Adminhtml_Deleteorders_IndexController extends Mage_Adminhtml_Sales_OrderController
 {
     public function indexAction()
     {
